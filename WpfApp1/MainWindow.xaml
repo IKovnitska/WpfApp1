@@ -20,6 +20,7 @@
             <ComboBoxItem IsSelected="True">Green</ComboBoxItem>
             <ComboBoxItem>Blue</ComboBoxItem>
             <ComboBoxItem>Pink</ComboBoxItem>
+            <ComboBoxItem>Yellow</ComboBoxItem>
         </ComboBox>
 
     </Grid>
